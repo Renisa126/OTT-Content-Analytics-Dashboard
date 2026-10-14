@@ -78,4 +78,6 @@ The dataset contains the following information:
 - 💻 GitHub: [@Renisa126](https://github.com/Renisa126)
 
 ## 🏁 Conclusion
+<img width="1050" height="722" alt="image" src="https://github.com/user-attachments/assets/8ba08e4b-3a6b-41f5-b57e-a53abe42d08b" />
+
 This project demonstrates how Microsoft Power BI can transform raw OTT content data into meaningful visual insights and support interactive data exploration.
